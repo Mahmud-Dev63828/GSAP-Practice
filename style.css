@@ -29,15 +29,16 @@ body {
 .parent-two {
   background-color: #000000;
 }
+
 .parent-three {
   background-color: #9d9bd4;
+  height: 100vh; /* স্ক্রল ও পিন কাজ করার জন্য */
 }
 .parent-three h1 {
   color: #000;
-  font-size: 40vw;
+  font-size: 50vw;
 }
 
-/* Rectangles */
 .rectangle {
   width: 300px;
   height: 300px;
